@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498932936050",
+    "project_id": "fypwaheed",
+    "storage_bucket": "fypwaheed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498932936050:android:a2fd1b36c49451e5f441eb",
+        "android_client_info": {
+          "package_name": "com.example.auto_care_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt9h81vN-m2HVWwVdRb9x4Gi4P9fG6ySk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
